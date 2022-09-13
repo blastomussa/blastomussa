@@ -1,16 +1,44 @@
-### Hi there 👋
+Senior Technical Support Engineer @ Crayon
 
-<!--
-**blastomussa/blastomussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 👨‍💻
 
-Here are some ideas to get you started:
+Hi Everyone 👋, 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Joe courtney and I am an IT systems engineer from Massachussetts. I currently work as 
+a techinical support engineer for enterprise Azure environements. I love working with APIs and 
+cloud technologies. Currently honing on my IaC skills with terraform and my API skills with Python 😎
+
+📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blasto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-courtney)
+
+## Skills (highly abridged 🌁)
+
+- Python 🥷
+- Terraform 👾
+- PowerShell 🔥
+- bash ❤️‍🔥
+- HTML/CSS/JS 🌴
+
+## Recent Projects (the fun ones 😸)
+
+- <a href="https://github.com/blastomussa/Azure-NTier-Terraform">N-Tier Azure Application</a>: Terraform, Flask, Docker, and AKS
+- <a href="https://github.com/blastomussa/Password-Generator-Api">Password Generator API</a>: Flask, Docker, Kubernetes, and Jenkins
+- <a href="https://github.com/blastomussa/FreshPyService">FreshPyService</a>: Python implementation of FreshService's API
+- <a href="https://github.com/blastomussa/zoom_api">Zoom API Project</a>: Python implementation of Zoom's API
+
+## Certifications (the good ones...more to come 😈)
+
+- CompTIA: Network+
+- CompTIA: Security+
+- Microsoft Certified: Azure Administrator Associate
+
+## Education
+
+- Currently attending UMass's MSIT program
+- Bachelor's of Science: Information Technology, UML
+
+## Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blastomussa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blastomussa&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center"><img src="https://komarev.com/ghpvc/?username=blastomussa&style=flat-square&color=blue" alt=""></p>
