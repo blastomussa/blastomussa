@@ -8,7 +8,7 @@ My name is Joe courtney and I am an IT systems engineer from Massachussetts. I p
 a techinical support engineer at a CSP that supports large-scale enterprise Azure environments. 
 
 Aspiring cloud engineer with a passion for working with APIs and cloud technologies. Currently honing
-my IaC skills with terraform and my API skills with Python 😎
+my IaC skills with Terraform and my API skills with Python 😎
 
 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blasto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-courtney)
 
@@ -35,7 +35,7 @@ my IaC skills with terraform and my API skills with Python 😎
 
 ## Education (the expensive ones 💰)
 
-- Currently attending UMass's MSIT program
+- Currently attending UMass Lowell's MSIT program
 - Bachelor's of Science: Information Technology, UML
 
 ## Stats
