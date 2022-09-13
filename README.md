@@ -4,9 +4,11 @@ Senior Technical Support Engineer @ Crayon
 
 Hi Everyone 👋, 
 
-My name is Joe courtney and I am an IT systems engineer from Massachussetts. I currently work as 
-a techinical support engineer for enterprise Azure environements. I love working with APIs and 
-cloud technologies. Currently honing on my IaC skills with terraform and my API skills with Python 😎
+My name is Joe courtney and I am an IT systems engineer from Massachussetts. I presently work as 
+a techinical support engineer at a CSP that supports large-scale enterprise Azure environements. 
+
+Aspiring cloud engineer with a passion for working with APIs and cloud technologies. Currently honing
+my IaC skills with terraform and my API skills with Python 😎
 
 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blasto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-courtney)
 
