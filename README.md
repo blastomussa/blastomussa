@@ -5,14 +5,14 @@ Senior Technical Support Engineer @ Crayon
 Hi Everyone 👋, 
 
 My name is Joe courtney and I am an IT systems engineer from Massachussetts. I presently work as 
-a techinical support engineer at a CSP that supports large-scale enterprise Azure environements. 
+a techinical support engineer at a CSP that supports large-scale enterprise Azure environments. 
 
 Aspiring cloud engineer with a passion for working with APIs and cloud technologies. Currently honing
 my IaC skills with terraform and my API skills with Python 😎
 
 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blasto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-courtney)
 
-## Skills (highly abridged 🌁)
+## Skills (abridged 🌁)
 
 - Python 🥷
 - Terraform 👾
@@ -27,13 +27,13 @@ my IaC skills with terraform and my API skills with Python 😎
 - <a href="https://github.com/blastomussa/FreshPyService">FreshPyService</a>: Python implementation of FreshService's API
 - <a href="https://github.com/blastomussa/zoom_api">Zoom API Project</a>: Python implementation of Zoom's API
 
-## Certifications (the good ones...more to come 😈)
+## Certifications (the good ones 🏴‍☠️)
 
 - CompTIA: Network+
 - CompTIA: Security+
 - Microsoft Certified: Azure Administrator Associate
 
-## Education
+## Education (the expensive ones 💰)
 
 - Currently attending UMass's MSIT program
 - Bachelor's of Science: Information Technology, UML
