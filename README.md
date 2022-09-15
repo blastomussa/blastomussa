@@ -14,10 +14,10 @@ my IaC skills with Terraform and my API skills with Python 😎
 
 ## Skills (abridged 🌁)
 
-- Python 🥷
+- Python 🐱‍🚀
 - Terraform 👾
 - PowerShell 🔥
-- bash ❤️‍🔥
+- bash 🎶
 - HTML/CSS/JS 🌴
 
 ## Recent Projects (the fun ones 😸)
@@ -25,6 +25,7 @@ my IaC skills with Terraform and my API skills with Python 😎
 - <a href="https://github.com/blastomussa/Azure-NTier-Terraform">N-Tier Azure Application</a>: Terraform, Flask, Docker, and AKS
 - <a href="https://github.com/blastomussa/Password-Generator-Api">Password Generator API</a>: Flask, Docker, Kubernetes, and Jenkins
 - <a href="https://github.com/blastomussa/FreshPyService">FreshPyService</a>: Python implementation of FreshService's API
+- <a href="https://github.com/blastomussa/Schoology_API"> Schoology API Project</a>: Python implementation of Schoology's API w/ tk desktop client and Gmail mailer
 - <a href="https://github.com/blastomussa/zoom_api">Zoom API Project</a>: Python implementation of Zoom's API
 
 ## Certifications (the good ones 🏴‍☠️)
