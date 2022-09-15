@@ -40,8 +40,8 @@ my IaC skills with Terraform and my API skills with Python 😎
 - Bachelor's of Science: Information Technology, UML
 
 ## Stats
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blastomussa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=blastomussa&theme=dark&background=000000)](https://git.io/streak-stats)
 <p align="center"><img src="https://komarev.com/ghpvc/?username=blastomussa&style=flat-square&color=blue" alt=""></p>
+<p align="center"><img align="center" src="https://github.githubassets.com/images/mona-loading-default.gif" alt="" height="75" width="75" /></p>
