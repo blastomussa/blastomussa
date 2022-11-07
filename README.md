@@ -28,7 +28,6 @@ my IaC skills with Terraform and my API skills with Python 😎
 - <a href="https://github.com/blastomussa/Password-Generator-Api">Password Generator API</a>: Flask, Docker, Kubernetes, and Jenkins
 - <a href="https://github.com/blastomussa/crayon-python-sdk">CloudIQ SDK</a>: Python SDK for Crayon's CloudIQ API
 - <a href="https://github.com/blastomussa/FreshPyService">FreshPyService</a>: Python implementation of FreshService's API
-- <a href="https://github.com/blastomussa/Schoology_API"> Schoology API Project</a>: Python implementation of Schoology's API w/ tk desktop client and Gmail mailer
 
 
 ## Certifications (the good ones 🏴‍☠️)
