@@ -42,7 +42,7 @@ my IaC skills with Terraform and my API skills with Python 😎
 ## Education (the expensive ones 💰)
 
 - Currently attending UMass Lowell's MSIT program
-- Bachelor's of Science: Information Technology, UML
+- Bachelor's of Science: Information Technology, UMass Lowell
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blastomussa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
