@@ -23,6 +23,7 @@ my IaC skills with Terraform and my API skills with Python 😎
 ## Recent Projects (the fun ones 😸)
 
 - <a href="https://github.com/blastomussa/Azure-NTier-Terraform">N-Tier Azure Application</a>: Terraform, Flask, Docker, and AKS
+- <a href="https://github.com/blastomussa/blastomussa.dev">blastomussa.dev</a>: Personal blog built using Hugo and Blowfish, Docker deployment
 - <a href="https://github.com/blastomussa/soap-recipe-api">Soap Recipe API</a>: FastAPI REST API with JWT based Oauth2 implementation and Docker Uvicorn deployment
 - <a href="https://github.com/blastomussa/k8s-project">Soap API K8s deployment</a>: Kubernetes deployment of React frontend, Fast API backend, and MongoDB Atlas
 - <a href="https://github.com/blastomussa/Password-Generator-Api">Password Generator API</a>: Flask, Docker, Kubernetes, and Jenkins
@@ -34,9 +35,10 @@ my IaC skills with Terraform and my API skills with Python 😎
 
 - CompTIA: Network+
 - CompTIA: Security+
+- Microsoft Certified: Azure Security Engineer Associate
 - Microsoft Certified: Azure Administrator Associate
 - Microsoft Certified: Azure AI Fundamentals
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals
+
 
 ## Education (the expensive ones 💰)
 
