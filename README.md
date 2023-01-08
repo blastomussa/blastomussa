@@ -33,10 +33,13 @@ my IaC skills with Terraform and my API skills with Python 😎
 
 ## Certifications (the good ones 🏴‍☠️)
 
-- CompTIA: Network+
-- CompTIA: Security+
+- Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Security Engineer Associate
 - Microsoft Certified: Azure Administrator Associate
+- CompTIA: Security+
+- CompTIA: Network+
+
+
 - Microsoft Certified: Azure AI Fundamentals
 
 
