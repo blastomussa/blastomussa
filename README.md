@@ -4,11 +4,7 @@ Senior Technical Support Engineer @ Crayon
 
 Hi Everyone 👋, 
 
-My name is Joe courtney and I am an IT systems engineer from Massachussetts. I presently work as 
-a techinical support engineer at a CSP that supports large-scale enterprise Azure environments. 
-
-Aspiring cloud engineer with a passion for working with APIs and cloud technologies. Currently honing
-my IaC skills with Terraform and my API skills with Python 😎
+My name is Joe courtney and I am an IT systems engineer from Massachussetts. I currently work for UMass Chan Medical School as a Cloud Engineer. I have a passion for working with APIs and cloud technologies and I am Currently honing my IaC skills with Terraform and my API skills with Python 😎
 
 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blasto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-courtney)
 
@@ -27,7 +23,7 @@ my IaC skills with Terraform and my API skills with Python 😎
 - <a href="https://github.com/blastomussa/soap-recipe-api">Soap Recipe API</a>: FastAPI REST API with JWT based Oauth2 implementation and Docker Uvicorn deployment
 - <a href="https://github.com/blastomussa/k8s-project">Soap API K8s deployment</a>: Kubernetes deployment of React frontend, Fast API backend, and MongoDB Atlas
 - <a href="https://github.com/blastomussa/Password-Generator-Api">Password Generator API</a>: Flask, Docker, Kubernetes, and Jenkins
-- <a href="https://github.com/blastomussa/crayon-python-sdk">CloudIQ SDK</a>: Python SDK for Crayon's CloudIQ API
+- <a href="https://github.com/blastomussa/crayon-python-sdk">CloudIQ SDK</a>: Python SDK for Crayon's CloudIQ API; PyPi Package; ADO Pipeline
 - <a href="https://github.com/blastomussa/FreshPyService">FreshPyService</a>: Python implementation of FreshService's API
 
 
