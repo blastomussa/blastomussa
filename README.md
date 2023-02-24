@@ -18,12 +18,12 @@ My name is Joe courtney and I am an IT systems engineer from Massachussetts. I c
 
 ## Recent Projects (the fun ones 😸)
 
+- <a href="https://github.com/blastomussa/crayon-python-sdk">CloudIQ SDK</a>: Python SDK for Crayon's CloudIQ API, PyPi Package, ADO Pipeline
 - <a href="https://github.com/blastomussa/Azure-NTier-Terraform">N-Tier Azure Application</a>: Terraform, Flask, Docker, and AKS
 - <a href="https://github.com/blastomussa/blastomussa.dev">blastomussa.dev</a>: Personal blog built using Hugo and Blowfish, Docker deployment
 - <a href="https://github.com/blastomussa/soap-recipe-api">Soap Recipe API</a>: FastAPI REST API with JWT based Oauth2 implementation and Docker Uvicorn deployment
 - <a href="https://github.com/blastomussa/k8s-project">Soap API K8s deployment</a>: Kubernetes deployment of React frontend, Fast API backend, and MongoDB Atlas
 - <a href="https://github.com/blastomussa/Password-Generator-Api">Password Generator API</a>: Flask, Docker, Kubernetes, and Jenkins
-- <a href="https://github.com/blastomussa/crayon-python-sdk">CloudIQ SDK</a>: Python SDK for Crayon's CloudIQ API; PyPi Package; ADO Pipeline
 - <a href="https://github.com/blastomussa/FreshPyService">FreshPyService</a>: Python implementation of FreshService's API
 
 
