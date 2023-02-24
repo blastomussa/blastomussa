@@ -1,4 +1,4 @@
-Senior Technical Support Engineer @ Crayon
+Azure Cloud Engineer @ UMass Chan
 
 ## About Me 👨‍💻
 
@@ -34,8 +34,6 @@ My name is Joe courtney and I am an IT systems engineer from Massachussetts. I c
 - Microsoft Certified: Azure Administrator Associate
 - CompTIA: Security+
 - CompTIA: Network+
-
-
 - Microsoft Certified: Azure AI Fundamentals
 
 
