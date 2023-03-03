@@ -1,10 +1,10 @@
-Azure Cloud Engineer @ UMass Chan
+Azure Cloud Engineer @ UMass Med
 
 ## About Me 👨‍💻
 
 Hi Everyone 👋, 
 
-My name is Joe courtney and I am an IT systems engineer from Massachussetts. I currently work for UMass Chan Medical School as a Cloud Engineer. I have a passion for working with APIs and cloud technologies and I am Currently honing my IaC skills with Terraform and my API skills with Python 😎
+My name is Joe courtney and I am an IT systems engineer from Massachussetts. I currently work for UMass Chan Medical School as a Cloud Engineer. I have a passion for working with APIs and cloud technologies. Currently honing my IaC skills with Terraform and my API skills with Python 😎
 
 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blasto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-courtney)
 
@@ -18,7 +18,7 @@ My name is Joe courtney and I am an IT systems engineer from Massachussetts. I c
 
 ## Recent Projects (the fun ones 😸)
 
-- <a href="https://github.com/blastomussa/crayon-python-sdk">CloudIQ SDK</a>: Python SDK for Crayon's CloudIQ API, PyPi Package, ADO Pipeline
+- <a href="https://github.com/blastomussa/crayon-python-sdk">CloudIQ SDK</a>: Python SDK for Crayon's CloudIQ API, PyPI Package, Azure DevOps Pipeline
 - <a href="https://github.com/blastomussa/Azure-NTier-Terraform">N-Tier Azure Application</a>: Terraform, Flask, Docker, and AKS
 - <a href="https://github.com/blastomussa/blastomussa.dev">blastomussa.dev</a>: Personal blog built using Hugo and Blowfish, Docker deployment
 - <a href="https://github.com/blastomussa/soap-recipe-api">Soap Recipe API</a>: FastAPI REST API with JWT based Oauth2 implementation and Docker Uvicorn deployment
