@@ -1,4 +1,4 @@
-Azure Cloud Engineer @ UMass Med
+Azure Cloud Engineer @ UMass Chan
 
 ## About Me 👨‍💻
 
