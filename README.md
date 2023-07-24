@@ -29,13 +29,12 @@ My name is Joe courtney and I am an IT systems engineer from Massachussetts. I c
 
 ## Certifications (the good ones 🏴‍☠️)
 
+- Microsoft Certified: Cybersecurity Architect Expert
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Security Engineer Associate
 - Microsoft Certified: Azure Administrator Associate
-- CompTIA: Security+
-- CompTIA: Network+
-- Microsoft Certified: Azure AI Fundamentals
-
+- CompTIA: Security +
+- CompTIA: Network +
 
 ## Education (the expensive ones 💰)
 
