@@ -38,7 +38,8 @@ My name is Joe courtney and I am an IT systems engineer from Massachussetts. I c
 
 ## Education (the expensive ones 💰)
 
-- Currently attending UMass Lowell's MSIT program
+- Master's of Science: Information Technology, UMass Lowell
+- Graduate Certificate: Systems Models and Management, UMass Lowell
 - Bachelor's of Science: Information Technology, UMass Lowell
 
 ## Stats
