@@ -29,6 +29,7 @@ My name is Joe courtney and I am an IT systems engineer from Massachussetts. I c
 
 ## Certifications (the good ones 🏴‍☠️)
 
+- HashiCorp Certified: Terraform Associate (003)
 - Microsoft Certified: Cybersecurity Architect Expert
 - Microsoft Certified: Azure Solutions Architect Expert
 - Microsoft Certified: Azure Security Engineer Associate
