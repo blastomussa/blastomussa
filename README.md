@@ -1,10 +1,10 @@
-Azure Cloud Engineer @ UMass Chan
+Azure Cloud Engineer @ Dick's Sporting Goods
 
 ## About Me 👨‍💻
 
 Hi Everyone 👋, 
 
-My name is Joe courtney and I am an IT systems engineer from Massachussetts. I currently work for UMass Chan Medical School as a Cloud Engineer. I have a passion for working with APIs and cloud technologies. Currently honing my IaC skills with Terraform and my API skills with Python 😎
+My name is Joe courtney and I am an IT systems engineer from Massachussetts. I currently work for Dick's Sporting Goods as a Systems Engineer. I have a passion for working with APIs and cloud technologies. Currently honing my IaC skills with Terraform and my API skills with Python 😎
 
 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blasto-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joseph-courtney)
 
@@ -40,7 +40,6 @@ My name is Joe courtney and I am an IT systems engineer from Massachussetts. I c
 ## Education (the expensive ones 💰)
 
 - Master's of Science: Information Technology, UMass Lowell
-- Graduate Certificate: Systems Models and Management, UMass Lowell
 - Bachelor's of Science: Information Technology, UMass Lowell
 
 ## Stats
